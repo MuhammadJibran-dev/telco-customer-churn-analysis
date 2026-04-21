@@ -76,4 +76,4 @@ The model shows that contract type, tenure, and monthly charges are the stronges
 ![ROC Curve](roc_curve.png)
 
 ### Feature Importance
-![Feature Importance](feature_importance.png)
+![Feature Importance](Feature_Importances.png)
