@@ -65,3 +65,15 @@ Helps telecom companies:
 
 ##  Model Interpretation
 The model shows that contract type, tenure, and monthly charges are the strongest predictors of churn.
+
+
+---
+
+
+##  Results
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
