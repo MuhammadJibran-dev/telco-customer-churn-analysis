@@ -61,6 +61,7 @@ Helps telecom companies:
 - Improve feature engineering  
 - Hyperparameter tuning
 
+---
 
-  ##  Model Interpretation
+##  Model Interpretation
 The model shows that contract type, tenure, and monthly charges are the strongest predictors of churn.
