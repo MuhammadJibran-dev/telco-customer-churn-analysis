@@ -59,4 +59,8 @@ Helps telecom companies:
 ## Future Work
 - Deploy model using Streamlit  
 - Improve feature engineering  
-- Hyperparameter tuning  
+- Hyperparameter tuning
+
+
+  ##  Model Interpretation
+The model shows that contract type, tenure, and monthly charges are the strongest predictors of churn.
